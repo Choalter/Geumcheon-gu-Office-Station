@@ -44,7 +44,7 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 
 🔗 **Timetable:** _(Insert timetable image or link here)_
 
-⏱ **Estimated time:** ~30–40 minutes (depending on shuttle availability)
+⏱ **Estimated time:** ~5 minutes (Train travel time only)
 
 ---
 
