@@ -46,7 +46,7 @@
 
 🔗 **時刻表：**
 
-![image](https://github.com/user-attachments/assets/1fb75caf-70f7-4312-b07d-8566adf4909a)
+![image](https://github.com/user-attachments/assets/29857f5c-8221-40c6-b12a-48efba8f5ef9)
 
 ---
 
