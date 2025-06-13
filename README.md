@@ -44,7 +44,9 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 
 ⏱ **Estimated time:** ~5 minutes (Train travel time only)
 
-🔗 **Timetable:**\n
+🔗 **Timetable:**
+
+
 ![image](https://github.com/user-attachments/assets/1f342aa9-3179-4183-b22b-50bda2b56959)
 
 
