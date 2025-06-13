@@ -42,9 +42,12 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 
 📌 **Important:** The shuttle train has **4 cars**. To board conveniently, ride Line 1 in cars **1-1 to 4-4**
 
-🔗 **Timetable:** _(Insert timetable image or link here)_
-
 ⏱ **Estimated time:** ~5 minutes (Train travel time only)
+
+🔗 **Timetable:**
+![image](https://github.com/user-attachments/assets/1f342aa9-3179-4183-b22b-50bda2b56959)
+
+
 
 ---
 
