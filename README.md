@@ -1,9 +1,10 @@
-🌐 Geumcheon-gu Office Station Travel Guide
+# 🌐 Geumcheon-gu Office Station Travel Guide
 Welcome to your guide for using Geumcheon-gu Office Station (Line 1). This station serves as a convenient hub for exploring the southwest region of Seoul and nearby cities like Gwangmyeong.
 
 Whether you're heading to another subway station, using a transport card, or facing payment issues, this guide has you covered.
 
-📌 Frequently Asked Questions (FAQ)
+
+# 📌 Frequently Asked Questions (FAQ)
 How do I get to Oryu-dong Station?
 
 How do I get to Gwangmyeong Station?
