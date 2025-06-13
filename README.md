@@ -34,11 +34,11 @@ Oryu-dong is on the **Incheon-bound branch of Line 1**, so a transfer is require
 ## 2. How do I get to Gwangmyeong Station?
 
 🚄 **Gwangmyeong Station** is a **KTX (high-speed rail)** station and is **not served directly by Seoul Subway**.  
-However, a **free shuttle train** connects **Yeongdeungpo Station (Line 1)** to Gwangmyeong Station.
+However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwangmyeong Station (Line 1 and KTX)**.
 
 ### 🚉 Route:
-- From **Geumcheon-gu Office Station**, take **Line 1 northbound** to **Yeongdeungpo Station**
-- At Yeongdeungpo, transfer to the **Gwangmyeong Shuttle Train**
+- From Geumcheon-gu Office Station, take the Gwangmyeong-bound shuttle train
+- The shuttle originates at Yeongdeungpo Station and stops at Geumcheon-gu Office Station before heading to Gwangmyeong
 
 📌 **Important:** The shuttle train has **4 cars**. To board conveniently, ride Line 1 in cars **1-1 to 4-4**
 
