@@ -60,7 +60,7 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 - At Seoul Metro station offices (e.g., Gasan Digital Complex Station)
 - At convenience stores (e.g., GS25, CU)
 - Via mobile apps (Android only)
-| ⚠️ iOS is not supported for Climate Card purchase
+⚠️ iOS is not supported for Climate Card purchase
 
 ### 💳 How to Use:
 1. Purchase Climate Card
