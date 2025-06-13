@@ -47,7 +47,8 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 🔗 **Timetable:**
 
 
-![image](https://github.com/user-attachments/assets/1f342aa9-3179-4183-b22b-50bda2b56959)
+![image](https://github.com/user-attachments/assets/1fb75caf-70f7-4312-b07d-8566adf4909a)
+
 
 
 
