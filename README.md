@@ -56,7 +56,7 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 - Ttareung-i (Seoul city bikes, * - additional fees required*)
 
 ### 💳 How to Use:
-1. Purchase from **Seoul City Hall**, **convenience stores**, or **online** (requires Korean mobile number)
+1. Purchase from **Station offices served on Seoul Metro**, **convenience stores**, or **apps** (Androids only)
 2. Tap at subway gates or buses — just like a T-money card
 3. The card is valid for **30 days** from first use
 
