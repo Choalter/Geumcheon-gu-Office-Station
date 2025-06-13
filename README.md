@@ -55,8 +55,13 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 - Buses
 - Ttareung-i (Seoul city bikes, * - additional fees required*)
 
+### How to Buy:
+- Seoul Metro station offices (e.g. Gasan Digital Complex station)
+- Convenience stores (e.g., GS25, CU)
+- Mobile apps (Android only)
+
 ### 💳 How to Use:
-1. Purchase from **Station offices served on Seoul Metro**, **convenience stores**, or **apps** (Androids only)
+1. Purchase Climate Card
 2. Tap at subway gates or buses — just like a T-money card
 3. The card is valid for **30 days** from first use
 
