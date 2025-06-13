@@ -53,7 +53,7 @@ However, a **shuttle train** connects **Yeongdeungpo Station (Line 1)** to **Gwa
 🏷️ The **Climate Card** is a **monthly pass** that allows **unlimited rides** on Seoul’s:
 - Subways
 - Buses
-- Ttareung-i (Seoul city bikes)
+- Ttareung-i (Seoul city bikes, * - additional fees required*)
 
 ### 💳 How to Use:
 1. Purchase from **Seoul City Hall**, **convenience stores**, or **online** (requires Korean mobile number)
